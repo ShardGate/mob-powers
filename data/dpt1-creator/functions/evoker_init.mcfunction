@@ -1,0 +1,10 @@
+execute positioned ^ ^ ^1 run function dpt1-creator:evoker_raycast
+execute positioned ^ ^ ^2 run function dpt1-creator:evoker_raycast
+execute positioned ^ ^ ^3 run function dpt1-creator:evoker_raycast
+execute positioned ^ ^ ^4 run function dpt1-creator:evoker_raycast
+execute positioned ^ ^ ^5 run function dpt1-creator:evoker_raycast
+execute positioned ^ ^ ^6 run function dpt1-creator:evoker_raycast
+execute positioned ^ ^ ^7 run function dpt1-creator:evoker_raycast
+execute positioned ^ ^ ^8 run function dpt1-creator:evoker_raycast
+execute positioned ^ ^ ^9 run function dpt1-creator:evoker_raycast
+execute positioned ^ ^ ^10 run function dpt1-creator:evoker_raycast

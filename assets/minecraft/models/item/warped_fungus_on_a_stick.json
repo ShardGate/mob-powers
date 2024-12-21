@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/warped_fungus_on_a_stick"
+	},
+	"overrides": [
+        {"predicate": {"custom_model_data": 73921}, "model": "dpt-1:dpt-1/squid"},
+        {"predicate": {"custom_model_data": 73922}, "model": "dpt-1:dpt-1/shield"},
+        {"predicate": {"custom_model_data": 73923}, "model": "dpt-1:dpt-1/fang"},
+        {"predicate": {"custom_model_data": 73924}, "model": "dpt-1:dpt-1/fin"},
+        {"predicate": {"custom_model_data": 73925}, "model": "dpt-1:dpt-1/feet"},
+        {"predicate": {"custom_model_data": 73926}, "model": "dpt-1:dpt-1/reaper"},
+        {"predicate": {"custom_model_data": 73927}, "model": "dpt-1:dpt-1/horn"},
+        {"predicate": {"custom_model_data": 73928}, "model": "dpt-1:dpt-1/soul"},
+        {"predicate": {"custom_model_data": 73929}, "model": "dpt-1:dpt-1/wing"},
+        {"predicate": {"custom_model_data": 739210}, "model": "dpt-1:dpt-1/charm"},
+        {"predicate": {"custom_model_data": 739211}, "model": "dpt-1:dpt-1/sprint"},
+        {"predicate": {"custom_model_data": 739212}, "model": "dpt-1:dpt-1/banner"}
+
+    ]
+}

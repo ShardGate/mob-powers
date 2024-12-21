@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"[","color":"yellow"},{"text":"Datapack Tennis V1","color":"gold"},{"text":"] ","color":"yellow"},{"text":"Click Here to Enable Cooldowns","color":"red","clickEvent":{"action":"run_command","value":"/function dpt1-general:change_cooldown_2"}}]
+tellraw @s ["",{"text":"[","color":"yellow"},{"text":"Datapack Tennis V1","color":"gold"},{"text":"] ","color":"yellow"},{"text":"Click Here to Disable Cooldowns","color":"red","clickEvent":{"action":"run_command","value":"/function dpt1-general:change_cooldown"}}]

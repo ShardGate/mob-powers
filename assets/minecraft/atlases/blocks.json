@@ -1,0 +1,22 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "dpt-1",
+            "prefix": "dpt-1/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/conduit",
+            "prefix": "entity/conduit/"
+        },
+        {
+            "type": "single",
+            "resource": "entity/bell/bell_body"
+        },
+        {
+            "type": "single",
+            "resource": "entity/enchanting_table_book"
+        }
+    ]
+}

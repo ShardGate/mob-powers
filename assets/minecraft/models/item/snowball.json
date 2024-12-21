@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/snowball"
+	},
+	"overrides": [
+        {"predicate": {"custom_model_data": 739213}, "model": "dpt-1:dpt-1/orb"}
+    ]
+}

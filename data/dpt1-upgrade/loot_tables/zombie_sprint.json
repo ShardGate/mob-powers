@@ -1,0 +1,133 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "generic.armor",
+                      "name": "generic.armor",
+                      "amount": 8,
+                      "operation": "add_value",
+                      "uuid": [
+                        194606017,
+                        1219906807,
+                        -2090886420,
+                        2100770165
+                      ],
+                      "slot": "any"
+                    },
+                    {
+                      "type": "generic.attack_damage",
+                      "name": "generic.attack_damage",
+                      "amount": 7,
+                      "operation": "add_value",
+                      "uuid": [
+                        -1453028335,
+                        853166406,
+                        -1343302609,
+                        -1236554496
+                      ],
+                      "slot": "any"
+                    },
+                    {
+                      "type": "generic.max_health",
+                      "name": "generic.max_health",
+                      "amount": -8,
+                      "operation": "add_value",
+                      "uuid": [
+                        -814025553,
+                        1249921953,
+                        -1173413352,
+                        858712998
+                      ],
+                      "slot": "any"
+                    },
+                    {
+                      "type": "generic.attack_speed",
+                      "name": "generic.attack_speed",
+                      "amount": 6,
+                      "operation": "add_value",
+                      "uuid": [
+                        -576790957,
+                        135220372,
+                        -1619202639,
+                        -1359710387
+                      ],
+                      "slot": "any"
+                    },
+                    {
+                      "type": "generic.knockback_resistance",
+                      "name": "generic.knockback_resistance",
+                      "amount": 1.5,
+                      "operation": "add_value",
+                      "uuid": [
+                        405786066,
+                        72437004,
+                        -1797883921,
+                        -193890128
+                      ]
+                    }
+                  ],
+                  "show_in_tooltip": false
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{DPT1_CustomTags: {zombie:1b}}"
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "value": 739211
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "target": "item_name",
+              "name": "Zombie's Sprint"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "type": null,
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

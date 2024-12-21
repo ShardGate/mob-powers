@@ -1,0 +1,1 @@
+scoreboard objectives add dpt1.upgrader.lava_cooldown dummy
