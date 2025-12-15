@@ -24,7 +24,7 @@ Watch the YouTube video to learn more about the items!
 
 =====License==========================================================
 
-Mob Powers © 2024 by [​SwitchedCube/ShardGate] is licensed under
+Mob Powers © 2024-2026 by [​SwitchedCube/ShardGate] is licensed under
 
 [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) An exception is made for video content, which can be monetized. However,
 video creators must give appropriate credit by leaving a link to this page and/or the ShardGate discord in the video description.
