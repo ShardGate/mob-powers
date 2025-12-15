@@ -2,7 +2,7 @@
 
 **⚠ Only tested in 1.20.4 and 1.20.5/1.20.6. Other versions might make the pack break! ⚠**
 
-**⚠ Please Report any bugs/suggestions in the [DevsCube discord server!](https://tinyurl.com/devscube) ⚠**
+**⚠ Please Report any bugs/suggestions in the [ShardGate discord server!](https://tinyurl.com/devscube) ⚠**
 
 **⚠ This datapack will most likely not update to future versions. ⚠**
 
@@ -24,7 +24,7 @@ Watch the YouTube video to learn more about the items!
 
 =====License==========================================================
 
-Mob Powers © 2024 by [​SwitchedCube/Devscube] is licensed under
+Mob Powers © 2024 by [​SwitchedCube/ShardGate] is licensed under
 
 [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) An exception is made for video content, which can be monetized. However,
-video creators must give appropriate credit by leaving a link to this page and/or the DevsCube discord in the video description.
+video creators must give appropriate credit by leaving a link to this page and/or the ShardGate discord in the video description.
