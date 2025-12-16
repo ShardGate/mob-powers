@@ -1,16 +1,26 @@
 ![Cover Art](https://github.com/ShardGate/assets/blob/main/Banners/Project/mob%20powers.png?raw=true)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HOgeDAxDEYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<details>
+<summary>Spoiler</summary>
+
 **⚠ This Datapack requires the use of a Resource Pack, which is available as a separate download. Please make sure you have activated it when playing with the pack. ⚠**
 
 **⚠ Only tested in 1.20.4 and 1.20.5/1.20.6. Other versions might make the pack break! ⚠**
 
-**⚠ Please Report any bugs/suggestions in the [ShardGate discord server!](https://tinyurl.com/devscube) ⚠**
+**⚠ Please Report any bugs/suggestions in the [ShardGate discord server!](https://discord.gg/8wEBKb73AV) ⚠**
 
 **⚠ This datapack will most likely not update to future versions. ⚠**
 
 **🌐This video is part of the first DATAPACK TENNIS competition hosted by SwitchedCube!**
 
 **🏓[Subscribe](https://youtube.com/switchedcube) to their channel to see more datapacks!**
+
+</details>
+
+
 
 This Datapack adds 12 powers based on ﻿MINECRAFT MOBS to Minecraft! All of them have their own abilities!
 
